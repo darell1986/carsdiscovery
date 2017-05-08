@@ -39,7 +39,7 @@
 				<div class="<?php echo $copyright_menu ? 'col-lg-7 col-sm-8' : 'col-sm-12'; ?>">
 					<?php if ( $copyright_area ): ?>
 						<?php
-						echo wp_kses_post( get_theme_mod( 'newsmag_copyright_contents', '&copy; ' . date( "Y" ) . ' <a href="http://carsdiscovery.com">CarsDiscovery</a>. All rights reserved.' ) );
+						echo wp_kses_post( get_theme_mod( 'newsmag_copyright_contents', '&copy; ' . date( "Y" ) . ' <a href="http://carsdiscovery.com">CarsDiscovery</a>.  All rights reserved.' ) );
 						?>
 					<?php endif; ?>
 				</div>
