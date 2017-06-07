@@ -92,11 +92,11 @@ endif;
 				<?php if ( $newsmag_show_banner ): ?>
                     <div class="col-md-8 header-banner">
 						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-						<!-- CarsDiscovery_Leaderboard -->
+						<!-- carsdiscovery_leaderboard -->
 						<ins class="adsbygoogle"
 							 style="display:inline-block;width:728px;height:90px"
-							 data-ad-client="ca-pub-2524788439684617"
-							 data-ad-slot="5990662286"></ins>
+							 data-ad-client="ca-pub-6551252052867050"
+							 data-ad-slot="5259302725"></ins>
 						<script>
 							(adsbygoogle = window.adsbygoogle || []).push({});
 						</script>
