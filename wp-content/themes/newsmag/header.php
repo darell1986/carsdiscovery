@@ -52,11 +52,12 @@ endif;
         <div class="site-branding container <?php echo $center_class ? 'centered-branding' : '' ?>">
             <div class="row">
 				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-				<!-- carsdiscovery_top_links -->
+				<!-- carsdiscovery_links -->
 				<ins class="adsbygoogle"
-					 style="display:inline-block;width:728px;height:15px"
+					 style="display:block"
 					 data-ad-client="ca-pub-6551252052867050"
-					 data-ad-slot="2305836329"></ins>
+					 data-ad-slot="7514765123"
+					 data-ad-format="link"></ins>
 				<script>
 					(adsbygoogle = window.adsbygoogle || []).push({});
 				</script>
