@@ -50,18 +50,6 @@ endif;
 	?>
     <header id="masthead" class="site-header" role="banner">
         <div class="site-branding container <?php echo $center_class ? 'centered-branding' : '' ?>">
-            <div class="row">
-				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-				<!-- carsdiscovery_links -->
-				<ins class="adsbygoogle"
-					 style="display:block"
-					 data-ad-client="ca-pub-6551252052867050"
-					 data-ad-slot="7514765123"
-					 data-ad-format="link"></ins>
-				<script>
-					(adsbygoogle = window.adsbygoogle || []).push({});
-				</script>
-			</div>
 			<div class="row">
                 <div class="col-md-4 header-logo">
 					<?php
@@ -92,15 +80,6 @@ endif;
 				?>
 				<?php if ( $newsmag_show_banner ): ?>
                     <div class="col-md-8 header-banner">
-						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-						<!-- carsdiscovery_leaderboard -->
-						<ins class="adsbygoogle"
-							 style="display:inline-block;width:728px;height:90px"
-							 data-ad-client="ca-pub-6551252052867050"
-							 data-ad-slot="5259302725"></ins>
-						<script>
-							(adsbygoogle = window.adsbygoogle || []).push({});
-						</script>
                     </div>
 				<?php endif; ?>
             </div>
